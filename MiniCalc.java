@@ -1,3 +1,4 @@
+// MiniCalc v1.0.0
 public class MiniCalc {
     public static int add(int a, int b) { return a + b; }
 
